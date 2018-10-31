@@ -1,0 +1,55 @@
+.zad2{
+  position: static;
+  height: 300px;
+}
+.box1{
+  height: 100px;
+  width: 100px;
+  position: relative;
+  background-color: red;
+}
+.box2{
+  height: 100px;
+  width: 100px;
+  position: relative;
+  background-color: blue;
+  left: 50px;
+  bottom:30px;
+}
+.box3{
+  height: 100px;
+  width: 100px;
+  position: relative;
+  background-color: green;
+  left: 80px;
+  bottom:60px;
+}
+.background{
+  height: 300px;
+  position: relative;
+  background-color: lime; 
+}
+.kvadrat1{
+height:100px;
+width:100px;
+background-color: blue;
+position: relative;
+bottom: 200px;
+float: left;
+}
+.kvadrat2{
+height:100px;
+width:100px;
+background-color: red;
+position: relative;
+bottom: 200px;
+float: left;
+}
+.kvadrat3{
+height:100px;
+width:100px;
+background-color: green;
+position: relative;
+bottom: 200px;
+float: left;
+}
